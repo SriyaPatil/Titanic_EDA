@@ -27,7 +27,7 @@ Correlation Analysis
 Insight Generation
 Professional Project Documentation
 📂 Repository Structure
-Titanic_EDA_project/
+Titanic_EDA/
 │
 ├── data/
 │   └── titanic.csv
@@ -54,8 +54,7 @@ Source: Kaggle Titanic: Machine Learning from Disaster
 
 Dataset Size: 891 Rows × 12 Columns
 
-Key features include:
-
+Features
 PassengerId
 Survived
 Pclass
@@ -80,9 +79,7 @@ FamilySize
 IsAlone
 AgeGroup
 FareBand
-
-Final dataset:
-
+Final Dataset
 891 rows
 16 columns
 0 missing values
@@ -139,9 +136,6 @@ Family Size Impact
 Passengers traveling in small family groups had better survival outcomes than solo travelers or very large families.
 
 📉 Correlation Summary
-
-Strongest relationships with survival:
-
 Feature	Relationship
 Sex_Encoded	Strong Positive
 Pclass	Strong Negative
@@ -150,8 +144,8 @@ IsAlone	Weak Negative
 Age	Weak Negative
 🚀 Installation
 Clone Repository
-git clone https://github.com/YOUR_USERNAME/Titanic-EDA.git
-cd Titanic-EDA
+git clone https://github.com/SriyaPatil/Titanic_EDA.git
+cd Titanic_EDA
 Install Dependencies
 pip install -r requirements.txt
 ▶️ Usage
@@ -159,9 +153,7 @@ Run Jupyter Notebook
 jupyter notebook Titanic_EDA.ipynb
 Run Python Script
 python titanic_eda.py
-
-Outputs:
-
+Outputs
 Cleaned dataset (titanic_cleaned.csv)
 Visualizations (images/)
 Analysis summary
@@ -189,11 +181,10 @@ Economic Status
 
 Female passengers and first-class travelers had significantly better survival rates, while third-class male passengers faced the lowest survival probabilities.
 
-This project demonstrates a complete EDA workflow, from raw data exploration to actionable insights and machine learning readiness.
+This project demonstrates a complete EDA workflow, from raw data exploration to actionable insights and machine-learning readiness.
 
 🙋 Author
 
 Sriya Patil
 
 GitHub: https://github.com/SriyaPatil
-
