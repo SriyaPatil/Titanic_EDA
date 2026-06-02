@@ -193,10 +193,7 @@ This project demonstrates a complete EDA workflow, from raw data exploration to 
 
 🙋 Author
 
-Sriya Sinde
+Sriya Patil
 
-Aspiring Data Analyst | Python • Pandas • SQL • Data Visualization
+GitHub: https://github.com/SriyaPatil
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
